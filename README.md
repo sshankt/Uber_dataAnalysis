@@ -4,7 +4,7 @@
 
 This project focuses on **Exploratory Data Analysis (EDA)** of the **Uber Rides Data**, where I analyze patterns and trends related to Uber rides bookings. The goal of this analysis is to gain valuable insights that can help improve business decision-making.
 
-![Uber Rides Data Analysis](images/uber-analysis-plot.png)
+![Uber Rides Data Analysis]([images.png](https://www.google.com/search?sca_esv=f7594868fc1f6aef&q=uber+images&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JzWreY9LW7LdGrLDAFqYDH3DF_waBUhtl7i7Xh3ndQb6Fn8zyWqVNDC6kxH2uU5tjMxNiRyN0Tu_IJ5U2F44t3g61CzFz2JBWAhJTb-xht_6LzY7f4dcpMn6CNH9wv57t_WlU8aPuzkPZ1e9zslXUCZi2jsHKdTxN4R4G2ipTlnIkLhU4A&sa=X&ved=2ahUKEwithYWpsaCKAxXybPUHHQQ_DqwQtKgLegQIExAB&biw=1596&bih=758&dpr=1.2#vhid=zD_5v4fCFiOlYM&vssid=mosaic))
 ### **Tools & Libraries Used:**
 - **Python**
 - **Pandas**
